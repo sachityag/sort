@@ -1,1 +1,1 @@
-int compare(int a, int b);
+int compare(int a[], int i, int j);
