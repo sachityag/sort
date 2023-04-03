@@ -1,1 +1,1 @@
-int bubblesort (int x);
+int bubblesort (int a[], int len);

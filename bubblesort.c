@@ -3,8 +3,9 @@
 #include "bubblesort.h"
 
 
-int bubblesort(int x)
+int bubblesort(int a[], int len)
 {
+	int x;
 	x = x;
 	return x;
 }

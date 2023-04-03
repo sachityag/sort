@@ -7,6 +7,8 @@
 
 int main(int argc, char *argv[])
 {
-	bubblesort(x);
+	int len;
+	int a[20] = {0};
+	bubblesort(a, len);
 	return 0;
 }
