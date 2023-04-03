@@ -1,1 +1,1 @@
-int swap(int );
+int swap(int a, int b);
